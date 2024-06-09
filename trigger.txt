@@ -1,2 +1,3 @@
 homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
 neilpang/acme.sh:latest registry.cn-hangzhou.aliyuncs.com/ziyouvip/neilpang/acme.sh:latest
+redis:5.0 registry.cn-hangzhou.aliyuncs.com/ziyouvip/redis:5.0
